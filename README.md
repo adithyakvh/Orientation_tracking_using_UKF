@@ -6,7 +6,7 @@ However, due to the non-linear relationship between the estimated orientation an
 
 # Results
 
-![1_1](https://user-images.githubusercontent.com/42107613/230778296-75c37c13-46b9-4b89-a411-89ce507a0819.jpg)
+![1_1](https://user-images.githubusercontent.com/42107613/230778374-38230acc-8223-4858-8513-0f8336fd3c5c.jpg)
 
 
 ![1](https://user-images.githubusercontent.com/42107613/230778061-5ec8a2ee-5ef1-422e-beb7-456a93a77649.JPG)
