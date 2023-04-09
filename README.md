@@ -6,11 +6,9 @@ However, due to the non-linear relationship between the estimated orientation an
 
 # Results
 
-![1_1](https://user-images.githubusercontent.com/42107613/230778374-38230acc-8223-4858-8513-0f8336fd3c5c.jpg)
 
-
-![1](https://user-images.githubusercontent.com/42107613/230778061-5ec8a2ee-5ef1-422e-beb7-456a93a77649.JPG)
-![2](https://user-images.githubusercontent.com/42107613/230778065-bcb7920a-f2c6-458a-b0a3-8975e3621322.JPG)
-![4](https://user-images.githubusercontent.com/42107613/230778070-3345afb2-0e3b-4884-946f-2c6db928efca.JPG)
-![5](https://user-images.githubusercontent.com/42107613/230778076-b873ded7-a718-4fd4-9b1d-7eaa5dd57665.JPG)
-![6](https://user-images.githubusercontent.com/42107613/230778082-fe17566e-bfd4-4080-931f-0218b9ea26f6.JPG)
+![1_1](https://user-images.githubusercontent.com/42107613/230778873-75bf8a14-2006-4ae0-9641-a467b236dbb8.jpg)
+![2_2](https://user-images.githubusercontent.com/42107613/230778874-0145b190-8999-4bc2-951a-a22e907fb23a.jpg)
+![4_4](https://user-images.githubusercontent.com/42107613/230778875-b7cbcd1b-573e-413d-92db-8116cb318671.jpg)
+![5_5](https://user-images.githubusercontent.com/42107613/230778876-cf96abc0-0e63-4b3c-903f-19ee958fc936.jpg)
+![6_6](https://user-images.githubusercontent.com/42107613/230778877-13cc2b8c-ad6d-442f-a76f-600ea31cc837.jpg)
